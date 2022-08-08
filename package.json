@@ -1,0 +1,14 @@
+{
+  "name": "defi-notebooks",
+  "version": "1.0.0",
+  "description": "Jupyter notebooks for defi research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Gamaliel",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.6.9"
+  }
+}
